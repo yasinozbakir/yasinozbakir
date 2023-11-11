@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yasinozbakir
+- 👀 I’m interested in coding and technology.
+- 🌱 I’m currently learning C and C++.
+- 📫 How to reach me ...
